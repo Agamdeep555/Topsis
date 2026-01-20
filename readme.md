@@ -22,7 +22,7 @@ alternatives based on their distance from the ideal best and ideal worst solutio
 2. Other dependencies that come installed with this package are :-
     - pandas
     - numpy
-3. Package listed on PyPI:- https://pypi.org/project/Topsis-bhavya-102303560/
+3. Package listed on PyPI:- https://pypi.org/project/topsis-agamdeep-555/0.1.5/
 4. Use the following command to install this package:-
     ```bash
     pip install Topsis-Agamdeep-102303261
