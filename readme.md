@@ -1,11 +1,11 @@
-# TOPSIS Implementation in Python
+## TOPSIS Implementation in Python
 
 **Course:** UCS654 - Predictive Analytics using Statistics  
 **Assignment:** Assignment-1 (TOPSIS)  
 **Author:** Agamdeep Singh  
 **Roll Number:** 102303261
 
-    ---
+---
 
 ## About the Project
 
@@ -15,7 +15,7 @@ This repository contains a Python implementation of the
 TOPSIS is a **multi-criteria decision-making (MCDM)** technique used to rank multiple
 alternatives based on their distance from the ideal best and ideal worst solutions.
 
-    ---
+---
 
 ## Installation - USER MANUAL
 1. Topsis-Agamdeep-102303261 requires Python3 to run.
@@ -27,7 +27,7 @@ alternatives based on their distance from the ideal best and ideal worst solutio
     ```bash
     pip install Topsis-Agamdeep-102303261
     ```
-    ---
+---
 
 ## Usage
 Run the following command in command prompt:
